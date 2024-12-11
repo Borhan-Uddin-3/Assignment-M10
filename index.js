@@ -87,16 +87,3 @@ if(isLeapYear(year)==true){
 }else{
   console.log(false);
 }
-
-// const numbers = [40, 100, 1, 5, 25, 10];
-
-// numbers.sort(sortArrayDescending);
-// console.log(numbers);
-
-// function sortArrayDescending (a, b){
-//   return b - a;
-// }
-
-
-
-
